@@ -1,0 +1,9 @@
+# Sistema e temporarios
+*.log
+.playwright-mcp/
+__pycache__/
+*.pyc
+
+# Arquivos temporarios de captura
+FireShot*.png
+FireShot*.pdf
